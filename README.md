@@ -1,6 +1,6 @@
 # Play-Audio-ASL3-Node
 Play an audio file over the air
-### Play and Audio File locally over the air Whenever you want ###
+### Play an Audio File locally over the air Whenever you want ###
 
 1. First navigate to the folder where you store your sccript files, for me it's this one.
 ```
