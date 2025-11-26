@@ -1,0 +1,1 @@
+/usr/bin/asterisk -rx "rpt localplay 576332 $1"
