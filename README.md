@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/refs/heads/ma
 ```
 sudo chmod +x playaudio.sh
 ```
-Then we need to know where you are storing your audio files I recommend a place like.. /usr/local/share/asterisk/sounds/custom
+Then we need to know where you are storing your audio files, I recommend a place like.. /usr/local/share/asterisk/sounds/custom
 What I use it for are soe holiday annoucements or local Radio Club announcements and I will put the sounds file I want to play in it's own folder so i will know where it's at. You don't have to do this, it's just what I do.
 So for Example: If I wanted to play a special Seasons Greetings ID only Christmas Day then I make a special folder here
 ```
