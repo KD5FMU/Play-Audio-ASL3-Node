@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/main/images/HamRadioCrusaderHeader.png" width="600">
+  <img src="https://github.com/KD5FMU/Play-Audio-ASL3-Node/blob/main/play-audio-github.png" width="600">
 </p>
 
 <br>
