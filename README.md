@@ -1,4 +1,7 @@
-![PlayAudioLoge](https://github.com/KD5FMU/Play-Audio-ASL3-Node/blob/main/play-audio-github.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/main/images/HamRadioCrusaderHeader.png" width="600">
+</p>
+
 <br>
 # Play-Audio-ASL3-Node
 Play an audio file over the air
