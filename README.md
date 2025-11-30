@@ -3,14 +3,19 @@ Play an audio file over the air
 ### Play an Audio File locally over the air Whenever you want ###
 
 1. First navigate to the folder where you store your sccript files, for me it's this one.
+<br>
 ```
 cd /etc/asterisk/local
 ```
+<br>
 2. Then we can down load the sceript file that plays the audio file through the asterisk server
+<br>
 ```
 wget https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/refs/heads/main/playaudio.sh
 ```
+<br>
 3. Then we need to make it executable
+<br>
 ```
 sudo chmod +x playaudio.sh
 ```
