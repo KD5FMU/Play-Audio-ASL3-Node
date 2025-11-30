@@ -33,7 +33,7 @@ https://github.com/KD5FMU/Convert-Audio-File-to-ulaw
 
 Or if it's already in an acceptable format just copy the audio file to the folder you desire and then we can setup a cron job to have it play when you want it to.
 <br>
-For Example: If you want the file to play 15 mins after the hour every hour then you can get into crontab thusly, 
+For Example: If you want the file to play 15 mins after the hour every hour only on Christmas Day then you can get into crontab thusly, 
 
 ```
 sudo crontab -e
