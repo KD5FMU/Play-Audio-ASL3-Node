@@ -13,7 +13,7 @@ cd /etc/asterisk/local
 ```
 2. Then we can down load the sceript file that plays the audio file through the asterisk server
 ```
-wget https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/refs/heads/main/playaudio.sh
+sudo wget https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/refs/heads/main/playaudio.sh
 ```
 3. Then we need to make it executable
 ```
