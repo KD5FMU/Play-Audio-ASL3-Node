@@ -29,6 +29,9 @@ Once there you need to replace the line YOUR_NODE_NUMNBER_HERE with your actual 
 </p>
 
 <br>
+Then you can hit CTL + X then Y to save and ENTER to exit
+<br>
+
 Then we need to know where you are storing your audio files, I recommend a place like.. 
 ```
 /usr/local/share/asterisk/sounds/custom
