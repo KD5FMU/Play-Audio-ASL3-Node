@@ -23,7 +23,12 @@ sudo chmod +x playaudio.sh
 ```
 sudo nano playaudio.sh
 ```
+Once there you need to replace the line YOUR_NODE_NUMNBER_HERE with your actual node number. 
+<p align="center">
+  <img src="https://github.com/KD5FMU/Play-Audio-ASL3-Node/blob/main/nanbo-file.png" width="600">
+</p>
 
+<br>
 Then we need to know where you are storing your audio files, I recommend a place like.. 
 ```
 /usr/local/share/asterisk/sounds/custom
