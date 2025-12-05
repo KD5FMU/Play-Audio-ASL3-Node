@@ -19,6 +19,11 @@ sudo wget https://raw.githubusercontent.com/KD5FMU/Play-Audio-ASL3-Node/refs/hea
 ```
 sudo chmod +x playaudio.sh
 ```
+4. Then we need to nano into the file so that you can add YOUR node number into the script file. 
+```
+sudo nano playaudio.sh
+```
+
 Then we need to know where you are storing your audio files, I recommend a place like.. 
 ```
 /usr/local/share/asterisk/sounds/custom
