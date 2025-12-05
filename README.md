@@ -25,7 +25,7 @@ sudo nano playaudio.sh
 ```
 Once there you need to replace the line YOUR_NODE_NUMNBER_HERE with your actual node number. 
 <p align="center">
-  <img src="https://github.com/KD5FMU/Play-Audio-ASL3-Node/blob/main/nanbo-file.png" width="600">
+  <img src="https://github.com/KD5FMU/Play-Audio-ASL3-Node/blob/main/nano-file.png" width="600">
 </p>
 
 <br>
