@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Created by Freddie McGuire - KD5FMU and OpenAI ChatGPT
 # playaudio.sh – Play an audio file over an AllStarLink v3 node (Debian 12)
 
 NODE="YOUR_NODE_NUMBER"
